@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #6a51a6;
+}
+
+header h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: #333;
+}
+
+header p {
+    margin: 5px 0;
+    color: #666;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h3 {
+    border-bottom: 2px solid #6a51a6;
+    padding-bottom: 5px;
+    color: #6a51a6;
+}
+
+.experience, .education, .volunteer {
+    margin-bottom: 15px;
+}
+
+.experience h4, .education h4, .volunteer h4 {
+    margin: 5px 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.experience p, .education p, .volunteer p {
+    margin: 5px 0;
+    color: #666;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 5px 0;
+    color: #666;
+}
